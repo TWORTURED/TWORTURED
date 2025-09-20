@@ -1,16 +1,12 @@
-## Hi there 👋
+## LYNX.EXE 
 
-<!--
-**TWORTURED/TWORTURED** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<.div style="background-color: rgba(0, 0, 0, 0.5); border-radius: 5px; padding: 10px; width: 65%; margin-bottom: 35px;".>
+<center> 
+  LYNX - 22 - MDNI
+  Criminology student
+  BPD-ASPD-ADD
+  Feel free to sit by me
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+</center>
+  
