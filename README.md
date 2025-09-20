@@ -3,11 +3,11 @@
 
 <p align="center">  <i> LYNX - 22 - MDNI
   
-  Criminology student
+<p align="center">  Criminology student
   
-  BPD-ASPD-ADD
+<p align="center">  BPD-ASPD-ADD
   
-  Feel free to sit by me</i> </p>
+<p align="center">  Feel free to sit by me</i> </p>
 
 
   
