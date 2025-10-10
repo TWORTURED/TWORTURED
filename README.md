@@ -3,7 +3,7 @@
 
 <p align="center">  <i> LYNX - 22 - MDNI
   
-<p align="center">  Criminology student
+<p align="center">  Veterinary student
   
 <p align="center">  BPD-ASPD-ADD
   
