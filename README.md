@@ -1,7 +1,7 @@
 <p align="center">  <i> LYNX - 23 - MDNI
   
-<p align="center">  Veterinary student
+<p align="center">  i don't careeeeeeeeeeee.
   
-<p align="center">  BPD-ASPD-ADD
+<p align="center">  
   
-<p align="center">  Feel free to sit by me</i> </p>
+<p align="center">  
